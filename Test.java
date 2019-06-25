@@ -4,5 +4,5 @@ public class Test {
 	}
 	void update() {
 		System.out.println("Updated");
-	}
+	} // Something
 }
